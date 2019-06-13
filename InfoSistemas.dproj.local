@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019/06/12 20:10:59.688,=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/12 20:11:15.464,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\uFrmCliente.pas=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/12 20:11:15.464,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\uFrmCliente.dfm=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/06/12 20:11:29.902,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\InfoSistemas.dproj=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/06/12 20:55:01.322,C:\delphoso\infoSistemas\InfoSistemas.dproj=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\InfoSistemas.dproj</Transaction>
+    <Transaction>2019/06/12 20:55:33.467,C:\delphoso\infoSistemas\uFrmCliente.pas=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\uFrmCliente.pas</Transaction>
+    <Transaction>2019/06/12 20:55:33.467,C:\delphoso\infoSistemas\uFrmCliente.dfm=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\uFrmCliente.dfm</Transaction>
+    <Transaction>2019/06/12 20:58:31.091,=C:\delphoso\infoSistemas\UnAPIviacep.pas</Transaction>
+  </Transactions>
+</BorlandProject>
